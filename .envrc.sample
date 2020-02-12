@@ -1,0 +1,7 @@
+export APPENGINE_APPLICATION=<place your GCP project name>
+
+export SLACK_BOT_CLIENT_ID=<place your token etc>
+export SLACK_BOT_CLIENT_SECRET=<place your token etc>
+export SLACK_BOT_SIGNING_SECRET=<place your token etc>
+export SLACK_BOT_VERIFICATION_TOKEN=<place your token etc>
+export SLACK_BOT_OAUTH_ACCESS_TOKEN=<place your token etc>
